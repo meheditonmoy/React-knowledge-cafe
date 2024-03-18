@@ -4,9 +4,9 @@
       "cover": "https://i.ibb.co/1XLjMzF/html-system-website-concept-23-2150376770.jpg",
       "title": "Lorem Ipsum",
       "author": "John Doe",
-      "author-img": "https://i.ibb.co/k6BnNZG/depositphotos-620358068-stock-photo-young-writer-working-library.webp",
-      "posted-date": "2024-03-12",
-      "reading-time": 10,
+      "author_img": "https://i.ibb.co/k6BnNZG/depositphotos-620358068-stock-photo-young-writer-working-library.webp",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
       "hashtags": ["javascript", "webdev", "programming"]
     },
     {
@@ -14,9 +14,9 @@
       "cover": "https://i.ibb.co/HK9nzbC/leaves-6975462-640.webp",
       "title": "Dolor Sit Amet",
       "author": "Jane Smith",
-      "author-img": "https://i.ibb.co/F6ZM2tJ/images.jpg",
-      "posted-date": "2024-03-11",
-      "reading-time": 8,
+      "author_img": "https://i.ibb.co/F6ZM2tJ/images.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 8,
       "hashtags": ["react", "frontend", "development"]
     },
     {
@@ -24,9 +24,9 @@
       "cover": "https://i.ibb.co/d7JrSwb/2f-facebook-cover-photo-labels-2x-1.png",
       "title": "Consectetur Adipiscing",
       "author": "Alice Johnson",
-      "author-img": "https://i.ibb.co/QjS96hh/depositphotos-250363866-stock-photo-woman-using-laptop-computer.webp",
-      "posted-date": "2024-03-10",
-      "reading-time": 12,
+      "author_img": "https://i.ibb.co/QjS96hh/depositphotos-250363866-stock-photo-woman-using-laptop-computer.webp",
+      "posted_date": "2024-03-10",
+      "reading_time": 12,
       "hashtags": ["python", "datascience", "machinelearning"]
     },
     {
@@ -34,9 +34,9 @@
       "cover": "https://i.ibb.co/j6ZFmYK/0-a7-T9m-8-MSMNsw-IFN.jpg",
       "title": "Sed Do Eiusmod Tempor",
       "author": "Bob Williams",
-      "author-img": "https://i.ibb.co/vJFWnKW/entrepreneur-593358-1280.jpg",
-      "posted-date": "2024-03-09",
-      "reading-time": 15,
+      "author_img": "https://i.ibb.co/vJFWnKW/entrepreneur-593358-1280.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 15,
       "hashtags": ["java", "backend", "programming"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://i.ibb.co/0X2bQK2/https-dev-to-uploads-s3-amazonaws-com-i-398a310kjdiv647cld1y.jpg",
       "title": "Ut Enim Ad Minim Veniam",
       "author": "Eve Brown",
-      "author-img": "https://i.ibb.co/PcjhrrP/download.jpg",
-      "posted-date": "2024-03-08",
-      "reading-time": 9,
+      "author_img": "https://i.ibb.co/PcjhrrP/download.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 9,
       "hashtags": ["cplusplus", "cpp", "coding"]
     }
   ]
